@@ -39,7 +39,7 @@ internal checklist:
 
 To setup this app for development, you need to setup a few things for the live payment demo.
 
-The demo consists of the folloing parts
+The demo consists of the following parts
 
 - an [IOTA Devnet Faucet](https://github.com/machineeconomy/faucet), to send Tokens to the User Wallet in the Browser.
 - Four running [machines](https://github.com/machineeconomy/machine): two configured as robots and two as energy providers.
